@@ -1,0 +1,65 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "src": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?auto=format&fit=crop&w=800&q=80",
+      "category": "classes",
+      "title": "فصل دراسي"
+    },
+    {
+      "id": 2,
+      "src": "https://images.unsplash.com/photo-1581092160562-40aa08e78837?auto=format&fit=crop&w=800&q=80",
+      "category": "workshops",
+      "title": "ورشة عمل"
+    },
+    {
+      "id": 3,
+      "src": "https://images.unsplash.com/photo-1531482615713-2afd69097998?auto=format&fit=crop&w=800&q=80",
+      "category": "events",
+      "title": "معرض المشاريع"
+    },
+    {
+      "id": 5,
+      "src": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=800&q=80",
+      "category": "facilities",
+      "title": "مختبر الحاسوب"
+    },
+    {
+      "id": 6,
+      "src": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?auto=format&fit=crop&w=800&q=80",
+      "category": "classes",
+      "title": "درس عملي"
+    },
+    {
+      "id": 7,
+      "src": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?auto=format&fit=crop&w=800&q=80",
+      "category": "events",
+      "title": "اليوم الرياضي"
+    },
+    {
+      "id": 8,
+      "src": "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?auto=format&fit=crop&w=800&q=80",
+      "category": "workshops",
+      "title": "تدريب عملي"
+    },
+    {
+      "id": 9,
+      "src": "https://images.unsplash.com/photo-1581091870623-5e0c50a5c0d6?auto=format&fit=crop&w=800&q=80",
+      "category": "facilities",
+      "title": "ورشة الميكانيك"
+    },
+    {
+      "id": 11,
+      "src": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=800&q=80",
+      "category": "events",
+      "title": "حفل التخرج"
+    },
+    {
+      "id": 12,
+      "src": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=800&q=80",
+      "category": "classes",
+      "title": "درس نظري"
+    }
+  ]
+}
+

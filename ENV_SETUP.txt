@@ -1,0 +1,14 @@
+# ⚠️ مهم: انسخ هذا المحتوى إلى ملف .env في جذر المشروع
+# لا ترفع ملف .env إلى GitHub!
+
+# كلمة المرور للإدارة (Frontend)
+# استخدم كلمة مرور قوية (12+ حرف، أرقام، رموز)
+VITE_ADMIN_PASSWORD=YourStrongPassword123!@#
+
+# كلمة المرور للإدارة (Backend)
+# يجب أن تكون نفس كلمة المرور في Frontend
+ADMIN_PASSWORD=YourStrongPassword123!@#
+
+# منفذ السيرفر (اختياري)
+PORT=3001
+
